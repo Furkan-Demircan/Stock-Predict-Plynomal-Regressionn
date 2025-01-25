@@ -70,4 +70,4 @@ Bu proje hakkında sorularınız veya önerileriniz için bizimle iletişime ge�
 
 ---
 
-İyi kodlamalar!!!
+İyi kodlamalar!
