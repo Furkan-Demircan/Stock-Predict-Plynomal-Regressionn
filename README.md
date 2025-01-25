@@ -2,7 +2,7 @@
 
 Bu proje, Amazon'un hisse fiyatlarını polinomal regresyon modeli kullanarak tahmin eder. Tarihsel hisse fiyatlarını çeker, kapanış fiyatlarına dayalı bir regresyon modeli eğitir ve gelecekteki fiyatları tahmin eder.
 
-[**Read this document in English**](./README.md)
+[**Read this document in English**](./README_EN.md)
 
 ## Özellikler
 
