@@ -2,7 +2,7 @@
 
 This project predicts Amazon's stock prices using a polynomial regression model. It fetches historical stock prices, trains a regression model based on the closing prices, and forecasts future prices.
 
-[**Bu dokümanı Türkçe oku**](./README_TR.md)
+[**Bu dokümanı Türkçe oku**](./README.md)
 
 ## Features
 
